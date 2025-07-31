@@ -1,8 +1,8 @@
 # 🎯 Jogo de Adivinhação - Versão Web
 
 
-Bem-vindo ao **Jogo de Adivinhação**, um joguinho simples e divertido feito com **HTML, CSS e JavaScript puro**!  
-Tente adivinhar o número secreto entre 1 e 100 com o menor número de tentativas possível. 🔢✨
+Bem-vindo ao **Jogo de Adivinhação**, um joguinho simples e divertido feito com **HTML, CSS e JavaScript**!  
+Tente adivinhar o número secreto entre 1 e 100 com o menor número de tentativas possível.
 
 ---
 
